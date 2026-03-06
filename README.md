@@ -82,11 +82,23 @@
 
 # 
 
-# The model is deployed using Streamlit.
+# The machine learning model is deployed using Streamlit to provide an interactive web interface for predicting loan approval.
 
 # 
 
-# Run locally using:
+# Live Demo
+
+# Try the application here:
+
+# 🔗 Live Demo: https://priya8850-loan-approval-prediction-app-tcgrpc.streamlit.app/
+
+# 
+
+# Run Locally
+
+# To run the application on your local system:
+
+# pip install -r requirements.txt
 
 # streamlit run app.py
 
